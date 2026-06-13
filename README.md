@@ -134,6 +134,7 @@ This project combines my passion for flying with my interest in data science and
 
 ### Delay Predictor
 ![Delay Predictor](Screenshot/DelayPredictor.png)
+![Delay Predictor](Screenshot/DelayPredictor_2.png)
 
 ### Weather Center
 ![Weather centre 1](Screenshot/Weathercentre_1.png)
