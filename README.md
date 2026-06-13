@@ -118,6 +118,60 @@ This simulates how real aviation analytics systems help predict delays.
 I have a strong interest in aviation and aspire to become a commercial pilot in the future.
 
 This project combines my passion for flying with my interest in data science and technology, helping me understand how modern aviation systems work behind the scenes.
+## 👨‍✈️ Motivation
+I have a strong interest in aviation and aspire to become a commercial pilot in the future.
+
+This project combines my passion for flying with my interest in data science and technology.
+
+---
+
+## 📸 Screenshots
+
+### Dashboard (Overview)
+![Dashboard 1](screenshot/Dashboard_1.png)
+
+![Dashboard 2](screenshot/Dashboard_2.png)
+
+![Dashboard 3](screenshot/Dashboard_3.png)
+
+### Delay Predictor
+![Delay Predictor](screenshot/DelayPredictor.png)
+
+### Weather Center
+![Weather centre 1](screenshot/Weathercentre_1.png)
+
+![Weather centre 2](screenshot/Weathercentre_2.png)
+
+### Airport Analytics
+![Airport analytics 1](screenshot/Airportanalytics_1.png)
+
+![Airport analytics 2](screenshot/Airportanalytics_2.png)
+
+### Pilot Academy
+![Pilot Academy 1](screenshot/PilotAcademy_1.png)
+
+![Pilot Academy 2](screenshot/PilotAcademy_2.png)
+
+![Pilot Academy 3](screenshot/PilotAcademy_3.png)
+
+![Pilot Academy 4](screenshot/PilotAcademy_4.png)
+
+![Pilot Academy 5](screenshot/PilotAcademy_5.png)
+
+![Pilot Academy 6](screenshot/PilotAcademy_6.png)
+
+![Pilot Academy 7](screenshot/PilotAcademy_7.png)
+
+### About project
+![About project 1](screenshot/Aboutproject_1.png)
+
+![About project 2](screenshot/Aboutproject_2.png)
+
+![About project 3](screenshot/Aboutproject_3.png)
+
+### Tech Used
+![Tech Used](screenshot/TechUsed.png)
+
 
 ---
 
