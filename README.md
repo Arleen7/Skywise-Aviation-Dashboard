@@ -19,7 +19,7 @@ The goal of SkyWise is to understand how data-driven systems can help improve av
 
 ---
 
-## ✈️ Features
+## Features
 
 ### 1. Flight Delay Predictor
 - Select departure and arrival airports
@@ -118,14 +118,14 @@ This simulates how real aviation analytics systems help predict delays.
 I have a strong interest in aviation and aspire to become a commercial pilot in the future.
 
 This project combines my passion for flying with my interest in data science and technology, helping me understand how modern aviation systems work behind the scenes.
-## 👨‍✈️ Motivation
+## Motivation
 I have a strong interest in aviation and aspire to become a commercial pilot in the future.
 
 This project combines my passion for flying with my interest in data science and technology.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Dashboard (Overview)
 ![Dashboard 1](screenshot/Dashboard_1.png)
@@ -175,5 +175,5 @@ This project combines my passion for flying with my interest in data science and
 
 ---
 
-## 📌 Note
+## Note
 This is a conceptual project created for learning and university portfolio purposes (NUS/NTU level applications).
